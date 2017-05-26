@@ -5,8 +5,7 @@ body{
 }
 .main_body{
   width:100%;
-  background-color: rgb(255,0,255);
-background-image: url(../images/bgv.jpg);
+background-image: url(http://media.istockphoto.com/photos/blue-gradient-blurred-abstract-background-picture-id523159398?k=6&m=523159398&s=612x612&w=0&h=hw98BNjx1c8-UWnAJr2LVxr6ubrGLvXSQcdv_Po-1xg=);
 }
 .another_body{
   width: inherit;
@@ -29,7 +28,7 @@ background-image: url(../images/bgv.jpg);
 img{
   width: 100%;
   height: 30%;
-  float: left;
+  float: right;
 }
 .class {
   border: 2px brown;
